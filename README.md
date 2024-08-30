@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [**Make-your-game**]([https://github.com/tdocarmo/groupie-tracker-filters](https://github.com/tdocarmo/make-your-game))
+- 🔭 I’m currently working on [**Make-your-game**](https://github.com/tdocarmo/make-your-game)
 - 👯 I’m looking to collaborate on exciting software development projects.
 
 ## 📊 GitHub Stats
