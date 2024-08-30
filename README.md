@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-**tdocarmo/tdocarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [**Make-your-game**](https://github.com/tdocarmo/make-your-game)
 - 👯 I’m looking to collaborate on exciting software development projects.
 
