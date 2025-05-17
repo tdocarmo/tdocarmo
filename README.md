@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [**Make-your-game**](https://github.com/tdocarmo/make-your-game)
+- 🔭 I’m currently working on [**portfolio**](https://github.com/tdocarmo/portfolio)
 - 👯 I’m looking to collaborate on exciting software development projects.
 
 ## 📊 GitHub Stats
