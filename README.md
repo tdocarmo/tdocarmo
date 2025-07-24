@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [**portfolio**](https://github.com/tdocarmo/portfolio)
+- 🔭 Currently working as a web development intern.
 - 👯 I’m looking to collaborate on exciting software development projects.
 
 ## 📊 GitHub Stats
