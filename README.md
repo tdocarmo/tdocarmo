@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-- 🔭 Currently working as a web development intern.
-- 👯 I’m looking to collaborate on exciting software development projects.
+🔭 After studying at Zone 01 (fullstack program) and completing a web development internship, I obtained the Concepteur Développeur d’Applications certification.
+
+💼 I’m currently looking for a position in backend / fullstack development or Cloud & DevOps.
+
+👯 I’m open to collaborating on practical and impactful software projects (Go, Laravel, Docker, DevOps tools).
 
 ## 📊 GitHub Stats
 
