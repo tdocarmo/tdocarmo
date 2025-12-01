@@ -8,4 +8,4 @@
 
 ## 📊 GitHub Stats
 
-![tdocarmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tdocarmo&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.zcy.dev/api?username=tdocarmo&show_icons=true&theme=radical)
